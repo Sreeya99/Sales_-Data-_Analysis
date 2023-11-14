@@ -19,6 +19,6 @@ San Francisco, Los Angeles, and New York City stand out as the top-performing ci
 Sales by Hour:
 Sales orders peak between 18:00 and 22:00 hours, indicating the most active period for transactions throughout the day.
 Contact Information:
-For inquiries or further information, please contact [Your Name] at [your.email@example.com].
+For inquiries or further information, please contact Sreeya Ghosh at sreeyaghosh99@gmail.com .
 
 Thank you for exploring my sales data analysis project!
